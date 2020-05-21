@@ -1,0 +1,22 @@
+/* 헤더 부분  */
+.header {
+  height: 80px;
+  width: 100%;
+  padding: 20px 100px;
+}
+
+.header-container {
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+
+img {
+  width: 40px;
+  height: 40px;
+}
+
+.nav {
+  font-size: 18px;
+  height: 40px;
+}
