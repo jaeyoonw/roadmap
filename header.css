@@ -16,7 +16,14 @@ img {
   height: 40px;
 }
 
+.logo {
+  display: flex;
+  justify-content: center;
+}
+
 .nav {
+  display: flex;
+  justify-content: center;
   font-size: 18px;
   height: 40px;
 }
