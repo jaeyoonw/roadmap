@@ -1,0 +1,41 @@
+.footer {
+  padding: 65px 0;
+  height: 310px;
+}
+
+.footer-container {
+  padding: 0 170px;
+  display: flex;
+  align-content: center;
+}
+
+.footer-logo__link {
+  display: flex;
+}
+
+.footer-logo {
+  margin-right: 7px;
+  width: 25px;
+  height: 25px;
+}
+
+span {
+  font-weight: 600;
+  color: black;
+}
+
+.footer-header {
+  margin-bottom: 7px;
+}
+
+.footer-container__left {
+  margin-right: 150px;
+}
+
+.footer-container__left__logo {
+  display: flex;
+}
+
+ul {
+  list-style: none;
+}
