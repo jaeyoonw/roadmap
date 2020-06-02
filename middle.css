@@ -1,20 +1,32 @@
-.middle{
+.middle {
   height: 300px;
 }
 
-.middle-bottom{
-  height: 300px;
-}
-
-.middle-container{
+.middle-container {
   max-width: 1140px;
-  text-align: center
+  text-align: center;
 }
 
-h1{
+.middle-bottom {
+  background-color: #fafafa;
+  height: 300px;
+  padding: 20px 100px;
+}
+
+.middle-bottom-container {
+  max-width: 1140px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.row {
+  display: flex;
+}
+
+.card {
+  background-color: #ffffff;
+}
+
+h1 {
   font-size: 48px;
-}
-
-.card{
- 
 }

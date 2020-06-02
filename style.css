@@ -25,11 +25,15 @@ a {
 }
 
 div {
-  display:block;
+  display: block;
   box-sizing: border-box;
 }
 
-.container{
+.container {
   margin-right: auto;
   margin-left: auto;
+}
+
+p {
+  font-size: 14px;
 }
