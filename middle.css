@@ -24,7 +24,12 @@
 }
 
 .card {
+  width: 30%;
+}
+
+.Blockitem {
   background-color: #ffffff;
+  box-shadow: rgba(0, 0, 0, 0.12) 0px 5px 10px;
 }
 
 h1 {
