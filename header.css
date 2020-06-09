@@ -19,12 +19,11 @@ img {
 
 .logo {
   display: flex;
-  
 }
 
 .nav {
   display: flex;
-  justify-content: center;
+  justify-content: space-evenly;
   font-size: 18px;
   height: 40px;
 }
